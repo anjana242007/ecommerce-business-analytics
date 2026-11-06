@@ -64,7 +64,7 @@ The interactive report is maintained in a single Power BI file with four report 
 
 ### Page 1 — Executive Sales Overview
 
-![Executive Sales Overview](power_bi/screenshots/01_executive_sales_overview.png)
+![Executive Sales Overview](https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/01_executive_sales_overview.png)
 
 **Business purpose:** Provide a high-level view of sales performance and monthly trends.
 
@@ -82,8 +82,7 @@ The interactive report is maintained in a single Power BI file with four report 
 
 ### Page 2 — Product & Category Performance
 
-![Product & Category Performance](power_bi/screenshots/02_product_category_performance.png)
-
+![Product & Category Performance](https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/02_product_category_performance.png)
 **Business purpose:** Identify high-performing product categories and compare revenue with item-sales volume.
 
 **Key metrics**
@@ -100,8 +99,7 @@ The interactive report is maintained in a single Power BI file with four report 
 
 ### Page 3 — Customer & Geographic Insights
 
-![Customer & Geographic Insights](power_bi/screenshots/03_customer_geographic_insights.png)
-
+![Customer & Geographic Insights](https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/03_customer_geographic_insights.png)
 **Business purpose:** Understand repeat purchasing, customer value, and geographic revenue distribution.
 
 **Key metrics**
@@ -119,8 +117,7 @@ The interactive report is maintained in a single Power BI file with four report 
 
 ### Page 4 — Delivery & Customer Experience
 
-![Delivery & Customer Experience](power_bi/screenshots/04_delivery_customers_experience.png)
-
+![Delivery & Customer Experience](https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/04_delivery_customers_experience.png)
 **Business purpose:** Evaluate delivery reliability and investigate the relationship between delivery performance and customer satisfaction.
 
 **Key metrics**
