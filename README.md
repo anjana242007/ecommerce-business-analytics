@@ -13,11 +13,11 @@
 
 E-commerce businesses need reliable reporting to understand sales performance, identify valuable product categories, retain customers, and improve delivery operations.
 
-This project analyzes the Brazilian Olist e-commerce dataset to investigate these business questions using MySQL, SQL, and Power BI. The workflow combines relational database analysis, data validation, KPI development, and an interactive four-page Power BI dashboard.
+This project analyzes the Brazilian Olist E-Commerce Public Dataset to investigate these business questions using MySQL, SQL, and Power BI. The workflow combines relational database analysis, data validation, KPI development, and an interactive four-page Power BI dashboard.
 
 The project goes beyond visualizing data by translating analytical findings into business interpretations, recommendations, and documented limitations.
 
-**Project focus:** Business Analytics, Customer Intelligence, Sales Performance, Product Analysis, and Operational Performance.
+**Project Focus:** Business Analytics, Customer Intelligence, Sales Performance, Product Analysis, and Operational Performance.
 
 ## 2. Business Problem
 
@@ -33,15 +33,15 @@ The objective was to convert these business questions into measurable KPIs, repr
 
 ## 3. Tools & Technologies
 
-| Technology | Application in the Project |
+| Technology | Application |
 |---|---|
-| MySQL | Relational database management and SQL analysis |
-| SQL | Joins, aggregations, filtering, grouping, KPI calculations, and business analysis |
-| Power BI Desktop | Interactive four-page business intelligence dashboard |
-| DAX | Measures for sales, customer behavior, delivery performance, and review scores |
-| Power Query | Importing and preparing dataset files |
-| Git & GitHub | Version control and project portfolio management |
-| Markdown | Project documentation and reporting |
+| MySQL | Relational database management |
+| SQL | Joins, aggregations, filtering, grouping, and business analysis |
+| Power BI Desktop | Interactive four-page dashboard |
+| DAX | KPI calculations and analytical measures |
+| Power Query | Data import and preparation |
+| Git & GitHub | Version control and project management |
+| Markdown | Project documentation |
 
 ## 4. Dataset
 
@@ -52,14 +52,14 @@ The dataset consists of nine related CSV files:
 | Dataset | Description |
 |---|---|
 | `olist_customers_dataset.csv` | Customer information and location |
-| `olist_orders_dataset.csv` | Order details and order timestamps |
+| `olist_orders_dataset.csv` | Order details and timestamps |
 | `olist_order_items_dataset.csv` | Products purchased within each order |
-| `olist_order_payments_dataset.csv` | Payment methods and payment amounts |
-| `olist_order_reviews_dataset.csv` | Customer ratings and review information |
-| `olist_products_dataset.csv` | Product attributes and category information |
+| `olist_order_payments_dataset.csv` | Payment methods and amounts |
+| `olist_order_reviews_dataset.csv` | Customer ratings and reviews |
+| `olist_products_dataset.csv` | Product attributes and categories |
 | `olist_sellers_dataset.csv` | Seller information and location |
 | `olist_geolocation_dataset.csv` | Brazilian geographic information |
-| `product_category_name_translation.csv` | Product category name translations |
+| `product_category_name_translation.csv` | Product category translations |
 
 **Data considerations:**
 
