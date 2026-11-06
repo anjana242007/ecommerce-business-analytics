@@ -77,7 +77,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 1 — Executive Sales Overview
 
-![Executive Sales Overview](./power_bi/screenshots/01_executive_sales_overview.png)
+![Executive Sales Overview](power_bi/screenshots/01_executive_sales_overview.png)
 
 **Business purpose:** Provide an overall view of sales performance, revenue generation, freight charges, and monthly trends.
 
@@ -99,7 +99,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 2 — Customer & Geographic Insights
 
-![Customer & Geographic Insights](./power_bi/screenshots/03_customer_geographic_insights.png)
+![Customer and Geographic Insights](power_bi/screenshots/03_customer_geographic_insights.png)
 
 **Business purpose:** Understand repeat purchasing, customer value, and geographic revenue distribution.
 
@@ -122,7 +122,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 3 — Product & Category Performance
 
-![Product & Category Performance](./power_bi/screenshots/02_product_category_performance.png)
+![Product and Category Performance](power_bi/screenshots/02_product_category_performance.png)
 
 **Business purpose:** Identify high-performing product categories and compare revenue contribution with sales volume.
 
@@ -144,7 +144,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 4 — Delivery & Customer Experience
 
-![Delivery & Customer Experience](./power_bi/screenshots/04_delivery_customers_experience.png)
+![Delivery and Customer Experience](power_bi/screenshots/04_delivery_customers_experience.png)
 
 **Business purpose:** Evaluate delivery reliability and investigate the relationship between delivery performance and customer satisfaction.
 
@@ -458,6 +458,14 @@ Detailed supporting documentation is available in the following directories:
 - `documentation/03_power_bi_documentation/` — Power BI report structure, KPIs, and dashboard documentation.
 
 These documents provide additional details about the project's analytical process and implementation.
+
+
+
+
+
+
+
+
 
 ## 14. Conclusion
 
