@@ -77,7 +77,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 1 — Executive Sales Overview
 
-<img src="https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/01_executive_sales_overview.png" alt="Executive Sales Overview" width="100%">
+![Executive Sales Overview](power_bi/screenshots/01_executive_sales_overview.png)
 
 **Business purpose:** Provide an overall view of sales performance, revenue generation, freight charges, and monthly trends.
 
@@ -99,7 +99,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 2 — Customer & Geographic Insights
 
-<img src="https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/03_customer_geographic_insights.png" alt="Customer and Geographic Insights" width="100%">
+![Customer and Geographic Insights](power_bi/screenshots/03_customer_geographic_insights.png)
 
 **Business purpose:** Understand repeat purchasing, customer value, and geographic revenue distribution.
 
@@ -122,7 +122,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 3 — Product & Category Performance
 
-<img src="https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/02_product_category_performance.png" alt="Product and Category Performance" width="100%">
+![Product and Category Performance](power_bi/screenshots/02_product_category_performance.png)
 
 **Business purpose:** Identify high-performing product categories and compare revenue contribution with sales volume.
 
@@ -144,7 +144,7 @@ The project includes a single interactive Power BI report containing four analyt
 
 ### Page 4 — Delivery & Customer Experience
 
-<img src="https://raw.githubusercontent.com/anjanatanguturi2407-maker/ecommerce-business-analytics/main/power_bi/screenshots/04_delivery_customers_experience.png" alt="Delivery and Customer Experience" width="100%">
+![Delivery and Customer Experience](power_bi/screenshots/04_delivery_customers_experience.png)
 
 **Business purpose:** Evaluate delivery reliability and investigate the relationship between delivery performance and customer satisfaction.
 
